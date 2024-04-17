@@ -9,17 +9,22 @@ const servicesData = [
    {
       imgUrl: weatherImg,
       title: `Calculate Weather`,
-      desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit.`,
+      desc: `Know before you step our.`,
+      LinkUrl :"https://www.weather.gov/shv/calculator"
    },
    {
       imgUrl: guideImg,
-      title: `Best Tour Guide`,
-      desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit.`,
+      title: `Our Sponsered Tour Guide`,
+      desc: `The best experience provided by locals `,
+      LinkUrl :"https://www.showaround.com/"
+
    },
    {
       imgUrl: customizationImg,
-      title: 'Customization',
-      desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit.`,
+      title: 'Hotel',
+      desc: `Our partnered hotel .`,
+      LinkUrl :"https://www.booking.com/country/bd.html"
+
    },
 ]
 
