@@ -44,7 +44,7 @@ const Footer = () => {
                <Col lg='3'>
                   <div className="logo">
                      <img src={logo} alt="" />
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, enim.</p>
+                     <p> We are around bd at anyplace, any time </p>
                      <div className="social__link d-flex align-items-center gap-4">
                         <span>
                            <Link to='https://www.youtube.com/watch?v=B36qeYmmDoA'>
@@ -105,7 +105,7 @@ const Footer = () => {
                            <span><i class='ri-map-pin-line'></i></span>
                            Address:
                         </h6>
-                        <p className='mb-0'>Lorem</p>
+                        <p className='mb-0'>Brac University</p>
                      </ListGroupItem>
 
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -114,7 +114,7 @@ const Footer = () => {
                            Email:
                         </h6>
 
-                        <p className='mb-0'>Lorem</p>
+                        <p className='mb-0'>Bracu_students@gmail.com </p>
                      </ListGroupItem>
 
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -123,7 +123,7 @@ const Footer = () => {
                            Phone:
                         </h6>
 
-                        <p className='mb-0'>Lorem</p>
+                        <p className='mb-0'>XXXXXXXXXXX</p>
                      </ListGroupItem>
                   </ListGroup>
                </Col>
