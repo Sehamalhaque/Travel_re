@@ -47,7 +47,7 @@ const Footer = () => {
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, enim.</p>
                      <div className="social__link d-flex align-items-center gap-4">
                         <span>
-                           <Link to='#'>
+                           <Link to='https://www.youtube.com/watch?v=B36qeYmmDoA'>
                               <i class='ri-youtube-line'></i>
                            </Link>
                         </span>
@@ -57,7 +57,7 @@ const Footer = () => {
                            </Link>
                         </span>
                         <span>
-                           <Link to='#'>
+                           <Link to='https://www.facebook.com/groups/6020338681321560/?hoisted_section_header_type=recently_seen&multi_permalinks=7446040698751344'>
                               <i class='ri-facebook-circle-line'></i>
                            </Link>
                         </span>
