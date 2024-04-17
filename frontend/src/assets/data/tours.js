@@ -9,8 +9,8 @@ import tourImg07 from "../images/tour-img07.jpg";
 const tours = [
   {
     id: "01",
-    title: "Westminister Bridge",
-    city: "London",
+    title: "Lost square",
+    city: "Badda",
     distance: 300,
     address: 'SomeWhere',
     price: 99,
@@ -32,8 +32,8 @@ const tours = [
   },
   {
     id: "02",
-    title: "Bali, Indonesia",
-    city: "Indonesia",
+    title: "Cox bazar, ctg",
+    city: "Chittagong",
     distance: 400,
     address: 'SomeWhere',
     price: 96,
@@ -51,8 +51,8 @@ const tours = [
   },
   {
     id: "03",
-    title: "Snowy Mountains, Thailand",
-    city: "Thailand",
+    title: "Snowy Mountains, Sajek",
+    city: "Kumilla",
     distance: 500,
     address: 'SomeWhere',
     price: 76,
@@ -70,8 +70,8 @@ const tours = [
   },
   {
     id: "04",
-    title: "Beautiful Sunrise, Thailand",
-    city: "Thailand",
+    title: "Beautiful Sunrise, PuranDhaka",
+    city: "PuranDhaka",
     distance: 500,
     address: 'SomeWhere',
     price: 85,
@@ -89,8 +89,8 @@ const tours = [
   },
   {
     id: "05",
-    title: "Nusa Pendia Bali, Indonesia",
-    city: "Indonesia",
+    title: "Sea, ctg",
+    city: "Chittagong",
     distance: 500,
     address: 'SomeWhere',
     price: 75,
@@ -109,7 +109,7 @@ const tours = [
   {
     id: "06",
     title: "Cherry Blossoms Spring",
-    city: "Japan",
+    city: "Uttara1230",
     distance: 500,
     address: 'SomeWhere',
     price: 88,
@@ -127,8 +127,8 @@ const tours = [
   },
   {
     id: "07",
-    title: "Holmen Lofoten",
-    city: "France",
+    title: "Alala land ",
+    city: "Rajashi",
     distance: 500,
     address: 'SomeWhere',
     price: 79,
@@ -146,8 +146,8 @@ const tours = [
   },
   {
     id: "08",
-    title: "Snowy Mountains, Thailand",
-    city: "Thailand",
+    title: "Snowy Mountains, Faridpur",
+    city: "Faridpur",
     distance: 500,
     address: 'SomeWhere',
     price: 99,
