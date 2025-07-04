@@ -25,7 +25,7 @@
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React, Tailwind CSS (or your styling framework)
+- **Frontend**: React, Tailwind CSS 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT
